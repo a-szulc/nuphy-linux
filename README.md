@@ -15,10 +15,9 @@ I cannot gurantee or verify if all devices will work because I do not own all of
 In the worst case open an issue and let me know.
 
 ## Supported devices
-Tested:
+Tested by developer:
 -  Nuphy Air96 v2
 -  Nuphy Air60 v2
--  Nuphy Kick75
 
 Untested (Should work I dont have one tho):
 -  Nuphy Air75 v2
@@ -27,9 +26,14 @@ Untested (Should work I dont have one tho):
 -  NuPhy Halo96
 -  NuPhy Nos75
 
-Tested by contributors:
+Tested/Added by contributors:
+- Nuphy Air60 HE (Phrozenn1)
+- Nuphy Kick75 (mfiumara)
 - NuPhy Halo65 HE (IcarusSosie)
+- NuPhyX BH65 (pigdey)
 - NuPhy Air75 v3 (jwa464)
+- NuPhy Field75 (gtrias)
+- NuPhy Air75 HE (venomyt3)
 
 ## Installation
 
